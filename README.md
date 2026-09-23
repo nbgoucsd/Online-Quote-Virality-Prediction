@@ -105,7 +105,7 @@ The TF-IDF representation produced the lowest test MSE among the three approache
 ## Project Materials
 
 * **Jupyter Notebook:** `CSE158_Assignment_2.ipynb`
-* **Project Presentation:** [Add presentation link]
+* **Project Presentation:** [(https://youtu.be/BoE1nUrqGXE?si=Ab-0zyg8Td0unJYS)]
 * **Dataset:** Stanford Memetracker
 
 ## Limitations
